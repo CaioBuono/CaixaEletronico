@@ -13,7 +13,7 @@
             <label for="dinheiro">Qual valor você deseja sacar? (R$)*</label>
             <input type="number" name="dinheiro" id="dinheiro">
             <p>* Notas disponíveis: R$100, R$50, R$10 e R$5</p>
-            <input type="submit" value="Sacar">
+            <input type="submit" value="Sacar" id="sacar">
         </form>
     </main>
 </body>
