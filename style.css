@@ -58,6 +58,11 @@ input{
     border: 1px solid gray;
     border-radius: 5px;
     font-size: 15px;
+    padding-left: 15px;
+}
+
+#sacar{
+    padding: 0px;
 }
 
 #sacar:hover{
@@ -78,8 +83,15 @@ section{
 h2{
     margin-left: 15px;
     padding-top: 15px;
+    color: #372991;
 }
 
 img{
     width: 100px;
+}
+
+li{
+    margin-left: 15px;
+    padding-right: 5px;
+    color: #372991;
 }
