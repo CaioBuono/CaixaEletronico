@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php 
-        include 'Logica.php';
+        require_once 'Logica.php';
         $sacarDinheiro = new SomaBanco($_GET['dinheiro'] ?? 0);
     ?>
     <main>
